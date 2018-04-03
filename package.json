@@ -1,0 +1,26 @@
+{
+  "name": "mongodb-crud",
+  "version": "1.0.0",
+  "description": "CRUD with MongoDB Driver",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.0.5",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoviAndrew/mongodb-crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoviAndrew/mongodb-crud/issues"
+  },
+  "homepage": "https://github.com/JoviAndrew/mongodb-crud#readme"
+}
