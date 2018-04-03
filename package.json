@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-crud",
+  "version": "1.0.0",
+  "description": "CRUD with MongoDB Driver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosumali/mongodb-crud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcosumali/mongodb-crud/issues"
+  },
+  "homepage": "https://github.com/marcosumali/mongodb-crud#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.0.5"
+  }
+}
